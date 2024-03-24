@@ -1,0 +1,11 @@
+python-dotenv
+fire
+kafka-python
+streamlit
+datasets
+transformers
+torch
+scikit-learn
+numpy
+pandas
+
